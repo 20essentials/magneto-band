@@ -1,0 +1,23 @@
+export const nameBand = 'MAGNETO';
+export const nameSongs = [
+  'LA PUERTA DEL COLEGIO',
+  '40 GRADOS',
+  'VUELA, VUELA',
+  'LAS PALABRAS',
+  'MALHERIDO',
+  'SOY UN SOÑADOR',
+  'ENAMORADÍSIMO',
+  'MIRA, MIRA, MIRA',
+  'SUGAR, SUGAR',
+  'TU LIBERTAD',
+  'DÉJAME ESTAR A TU LADO',
+  'PARA SIEMPRE',
+  'SUEÑO POR SUEÑO',
+  'MI AMADA',
+  'DAME AMOR',
+  'A CORAZÓN ABIERTO',
+  'NO SE DECIR ADIOS',
+  'SIGLO XX',
+  'AMOR SALADO',
+  'OBSESIONADO'
+];
